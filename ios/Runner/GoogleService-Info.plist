@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>262977942724-8pj8755ob4d3fpcpl7rk892bkev1vkaq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262977942724-8pj8755ob4d3fpcpl7rk892bkev1vkaq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>262977942724-d4hrqtlhddav11rdnpaar2n17qbcckc5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwbcOwI_ekX4RC_O_tB7Yx-YAGIKS21mo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262977942724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecinemaWatchTogether</string>
+	<key>PROJECT_ID</key>
+	<string>ecinema-watch-together</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecinema-watch-together.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262977942724:ios:67fa92e6dfbfd0f3550591</string>
+	<key>DATABASE_URL</key>
+	<string>https://ecinema-watch-together-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

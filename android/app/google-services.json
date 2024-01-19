@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262977942724",
+    "firebase_url": "https://ecinema-watch-together-default-rtdb.firebaseio.com",
+    "project_id": "ecinema-watch-together",
+    "storage_bucket": "ecinema-watch-together.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262977942724:android:54029002a0d8e6ab550591",
+        "android_client_info": {
+          "package_name": "com.example.ecinema_watch_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262977942724-d4hrqtlhddav11rdnpaar2n17qbcckc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecinema_watch_together",
+            "certificate_hash": "b8fbff7e26cf6d863e78ab1796fe24643b1e83e3"
+          }
+        },
+        {
+          "client_id": "262977942724-66btvb507t5m7c2o0gtauqrpobsea60k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSMJOAYSlDjsRyR4pHZt3e4IBXO_WoJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262977942724-66btvb507t5m7c2o0gtauqrpobsea60k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262977942724-8pj8755ob4d3fpcpl7rk892bkev1vkaq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecinemaWatchTogether"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

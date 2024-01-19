@@ -1,0 +1,4 @@
+enum GalleryPicker {
+  chat,
+  profile,
+}
